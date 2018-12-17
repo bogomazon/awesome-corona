@@ -13,7 +13,7 @@ When making a **pull request**, please make sure to:
 - Have your description:
   - Be short, simple and descriptive.
   - Follow this format: 
-    - **Name** - Description.
-    + [![iOS](appstore_icon.svg)](https://itunes.apple.com/) [![Android](google_play_icon.svg)](https://play.google.com/)[![Steam](steam_icon.svg)](https://store.steampowered.com/)
+    > - **Name** - Description.
+    > + [![iOS](appstore_icon.svg)](https://itunes.apple.com/) [![Android](google_play_icon.svg)](https://play.google.com/)[![Steam](steam_icon.svg)](https://store.steampowered.com/)
 
 Thank you for your suggestions!
