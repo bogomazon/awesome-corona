@@ -69,7 +69,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/zip-zap/id1146138135) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=de.kamibox.zipzap)
 
 - **I Love Hue** - Gentle journey into colour and perception. Arrange mosaics of coloured tiles into perfectly ordered spectrums.
-  + [Zut Games Ltd](http://zutgames.com/) 
+  + [by Zut Games Ltd](http://zutgames.com/) 
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/ru/app/i-love-hue/id1081075274) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.zutgames.ilovehue)
 
 ### RPG
@@ -86,9 +86,11 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ### Strategy
 - **Designer City** - Design, build and manage your town. Build a city, help it grow and evolve it into a huge metropolis.
+  + [by Sphere Game Studios Ltd](https://www.spheregamestudios.com/) 
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/designer-city/id1021092114?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.spheregamestudios.designercity&hl=en)
 
 - **Necromancer Returns** - Turn-based strategy game. Peace in a fantasy kingdom has been shattered by a creature of darkness that wishes to enslave all living beings.
+  + by Greenolor Studio 
   + [![Steam](steam_icon.svg)](https://store.steampowered.com/app/632020/Necromancer_Returns/) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.kingsbounty.turnbased.strategy.td)
 
 
