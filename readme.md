@@ -37,21 +37,25 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 ### Adventure
 
 - **The Lost City** - Legend has it the civilization that built this place could somehow control the seasons. Inspired by classic point and click adventure games. 
+  + [by Fire Maple Games](http://www.firemaplegames.com/) 
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/the-lost-city/id414835676?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.firemaplegames.thelostcity)
 
 
 ### Arcade
 
 - **Scale** - Scale is a free and an addictive arcade game with an unique gameplay containing slicer and balls.
+  + [by Good Job Games](https://www.goodjobgames.com/) 
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/app/scale/id1200921809) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.gmail.bulupe.Scale)
 
 
 ### Casual
 
 - **Ava Airborne** - Weave between giant bomb-balloons, dive into turbo-charged catapults, bounce off trampolines and launch up into the clouds. Just never touch the floor.
+  + [by Laser Dog](http://www.laserdog.co.uk/) 
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/gb/app/ava-airborne/id1327396071?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.playstack.avaairborne&hl=en_US)
 
 - **Grow Beets** - Feed and tap the Beet Buddies and watch them evolve and grow.
+  + [by Internet-Expert LLC](https://internet-expert.ru/) 
   + [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.iex.growbeet)
 
 
@@ -61,9 +65,11 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 ### Puzzles
 
 - **Zip—Zap** - Touch to contract. Release to let go. Bring the clumsy mechanical beings home.
+  + [by Philipp Stollenmayer](http://www.kamibox.de/) 
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/zip-zap/id1146138135) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=de.kamibox.zipzap)
 
 - **I Love Hue** - Gentle journey into colour and perception. Arrange mosaics of coloured tiles into perfectly ordered spectrums.
+  + [Zut Games Ltd](http://zutgames.com/) 
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/ru/app/i-love-hue/id1081075274) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.zutgames.ilovehue)
 
 ### RPG

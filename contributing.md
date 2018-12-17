@@ -15,6 +15,7 @@ When making a **pull request**, please make sure to:
   - Follow this format: 
 ```
   -**Name** - Description.
+  + [by Developer](https://www.coronalabs.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/) [![Android](google_play_icon.svg)](https://play.google.com/) [![Steam](steam_icon.svg)](https://store.steampowered.com/)
 ```
 
