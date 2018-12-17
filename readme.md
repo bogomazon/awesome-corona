@@ -65,10 +65,6 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - **I Love Hue** - Gentle journey into colour and perception. Arrange mosaics of coloured tiles into perfectly ordered spectrums.
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/ru/app/i-love-hue/id1081075274) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.zutgames.ilovehue)
 
-- **Name** - Description.
-  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/) [![Android](google_play_icon.svg)](https://play.google.com/)
-
-
 ### RPG
 
 
