@@ -10,13 +10,17 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Adventure](#adventure)
 - [Arcade](#arcade)
 - [Casual](#casual)
+- [Music](#music)
 - [Puzzle](#puzzles)
 - [Racing](#racing)
 - [Strategy](#strategy)
 - [Trivia](#trivia)
 
 ## Apps
+- [Finance](#finance)
+- [News](#news)
 - [Utility](#utility)
+- [Weather](#weather)
 
 ## Resources
 - [Community](#community)
