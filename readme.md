@@ -27,7 +27,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Other Lists](#other-lists)
 
 
-###Action
+### Action
 
 - **Gunman Taco Truck** - An action-packed drive across the post-apocalypse United States, where there are no taco trucks and your family’s taco business can thrive. 
   + by Romero Games Ltd.
@@ -53,7 +53,7 @@ adventure - **Regained Castle** - Follow the trails, uncover secrets and clues f
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/the-lost-city/id414835676?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.firemaplegames.thelostcity) 
 
 
-###Arcade
+### Arcade
 
 - **Beelly** - Steer Beelly the bee through the green meadow without hitting anything.
   + [AntiSocialGames](https://antisocial.games/)
@@ -92,7 +92,7 @@ adventure - **Regained Castle** - Follow the trails, uncover secrets and clues f
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/app/scale/id1200921809) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.gmail.bulupe.Scale) 
 
 
-###Casual
+### Casual
 
 - **Egg Baby** - Ultra cute, fun, and addictive pet game! Eggs are like real pets that need lots of attention and care.
   + [Nix Hydra Games](http://www.nixhydra.com)
@@ -127,14 +127,14 @@ adventure - **Regained Castle** - Follow the trails, uncover secrets and clues f
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/streetfood-tycoon/id498812738?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/dev?id=8960559483634068012) 
 
 
-###Music
+### Music
 
 - **OverRapid** - Mobile rhythm action game similar in style to famous titles like Rock Band and Guitar Hero. 
   + [Team Arcstar](https://twitter.com/Team_ArcStar)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/overrapid/id994425296?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.arcstar.overrapid) 
 
 
-###Puzzle
+### Puzzle
 
 - **Alpha Omega** - Can you solve each crossword puzzle, with only the first and last letters as your guide?
   + [BorderLeap](https://borderleap.com/)
@@ -193,14 +193,14 @@ adventure - **Regained Castle** - Follow the trails, uncover secrets and clues f
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/zmath/id1441670007?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=games.antisocial.smath) 
 
 
-###Racing
+### Racing
 
 - **Draw Rider Plus** - You need to get to the end of the road, not crashing. The game is made in bw style, and has realistic physics.
   + [17Studio](http://17studio.tumblr.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/draw-rider-plus/id629059031?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.Studio17.drawriderplus) 
 
 
-###Strategy
+### Strategy
 
 - **Designer City 2** - Design and build your perfect town, nurture and grow it into a gigantic sprawling metropolis.
   + [Sphere Game Studios Ltd](https://www.spheregamestudios.com/)
@@ -227,7 +227,7 @@ adventure - **Regained Castle** - Follow the trails, uncover secrets and clues f
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/space-city-building-game/id1220255949) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.spheregamestudios.spacecity) 
 
 
-###Trivia
+### Trivia
 
 - **QuizTix** - Power up your knowledge with QuizTix!
   + [QuizTix](http://quiztix.co/)
@@ -237,28 +237,28 @@ adventure - **Regained Castle** - Follow the trails, uncover secrets and clues f
 ## Apps
 
 
-###Finance
+### Finance
 
 - **Gohenry - Pocket Money Manager** - Gohenry helps teach young people between the ages of 6 and 18 to spend, manage and save money. 
   + [Jamie Trinder](https://www.jamietrinder.co.uk/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/gb/app/gohenry-pocket-money-manager/id683249974?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.pktmny.mobile) 
 
 
-###News
+### News
 
 - **Idaho Ed News** - Idaho Education News is a comprehensive collection of online sources that provides information about public education in Idaho.
   + [Ponywolf](http://ponywolf.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/id1167575805)  
 
 
-###Utility
+### Utility
 
 - **Sleep Calculator** - A clean, colorful puzzler. Match boxes. Get points. Be happy.
   + [Made with Mustard](https://madewithmustard.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/sleep-time-calculator/id606077861?mt=8)  
 
 
-###Weather
+### Weather
 
 - **Foresee** - Foresee intelligently predicts the ideal times for your favorite activities so the weather doesn't catch you off guard.
   + [BorderLeap](https://borderleap.com/)
