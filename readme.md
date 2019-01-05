@@ -26,6 +26,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ## Resources
 - [Community](#community)
+- [Tools](#tools)
 - [Other Lists](#other-lists)
 
 
@@ -386,9 +387,11 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 ### Community
 - [Corona Labs](https://coronalabs.com/) - The official Corona Labs website.
 - [Corona Forums](https://forums.coronalabs.com/) - Corona Forums.
-- [CDN Slack](https://coronadevelopers.slack.com/) - Corona Developer Network
+- [CDN Slack](https://coronadevelopers.slack.com/) - Corona Developer Network.
 
-
+### Tools
+- [Ponytiled](https://github.com/ponywolf/ponytiled) - Simple Tiled Map Loader.
+- [Particle2dx](http://particle2dx.com/) - Particle designer.
 
 
 ### Other Lists
