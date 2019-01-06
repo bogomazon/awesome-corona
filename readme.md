@@ -14,6 +14,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Puzzle](#puzzles)
 - [Racing](#racing)
 - [RPG](#rpg)
+- [Sports](#sports)
 - [Strategy](#strategy)
 - [Trivia](#trivia)
 
@@ -44,8 +45,8 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [Epace Games](http://www.epacegames.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/id1106182796) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.epacegames.zombiemobile&hl=en)   
 
-### Adventure
 
+### Adventure 
 
 - **A Short Tale** - After wishing to be small again, to feel closer to his younger brother, Jason finds himself in a strange new world filled with larger than life furniture, troublesome obstacles, and less-than-helpful occupants.
   + [Glitch Games](https://glitch.games/)
@@ -70,10 +71,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - **Forever Lost: Episode 2** - Have you won your freedom or are you just in another cage? Were you ever free before this whole … whatever this is ... started?
   + [Glitch Games](https://glitch.games/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/forever-lost-episode-2-hd/id572507223?ls=1&mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.glitchgames.foreverlostepisode2hd)   
-
+  "
 - **Forever Lost: Episode 3** - A first person point and click game filled with puzzles, objects, rooms, and more puzzles. Plus there’s an actual story for those players that way inclined.
   + [Glitch Games](https://glitch.games/)
-  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/forever-lost-episode-3-hd/id977672816?ls=1&mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.glitchgames.foreverlostepisode3hd) 
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/forever-lost-episode-3-hd/id977672816?ls=1&mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.glitchgames.foreverlostepisode3hd)   "
   
 - **Regained Castle** - Follow the trails, uncover secrets and clues from hidden object scenes, and solve various mini-games and puzzles on your quest to break the curse of the Willmore clan!
   + [Sungift Games](http://sungiftgames.com/)
@@ -189,19 +190,16 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + by App Forge Inc.
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/streetfood-tycoon/id498812738?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/dev?id=8960559483634068012)   
 
-### Music
 
+### Music 
 
 - **OverRapid** - Mobile rhythm action game similar in style to famous titles like Rock Band and Guitar Hero. 
   + [Team Arcstar](https://twitter.com/Team_ArcStar)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/overrapid/id994425296?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.arcstar.overrapid)   
 
-### Puzzle
 
-- **Hexium** - Drag and drop groups of hexes onto the game board. Connect edges with lines of 3 or more hexes in a row and they disappear while you score points.
-  + [Prairie West Software](https://www.prairiewest.net/)
-  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/hexium/id1419259691?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=net.prairiewest.hexium) 
-  
+### Puzzle  
+
 - **1-800-Monsters** - Dial up 1-800-Monsters and begin your quest as the hapless Jimmy, ex-pyrotechnician, now birthday party entertainer extraordinaire.
   + [Ponywolf](http://ponywolf.com/)
   +    [![Itch](itch_icon.svg)](https://ponywolf.itch.io/1-800-monsters) 
@@ -217,6 +215,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - **Bloks** - Fast-paced and obsessive Match-4 puzzle game.
   + [Simon Natt](http://nattygames.net/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/bloks-colorful-match-4-puzzle/id787069892) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.bulkypix.bloks)   
+  
+- **Bouncing Pixel** - Every Pixel wants a place of their own, reach the gate in all 60 levels and you shall find yours. 
+  + [Squiden](http://squiden.com/)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/bouncing-pixel/id1387311478?ls=1&mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.squiden.bouncypixel)   
   
 - **Color Fence** - Puzzle game where everything revolves around the fencing of colored blocks.
   + [McPeppergames](http://www.mcpeppergames.com/)
@@ -245,6 +247,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - **Freeze!** - Solve twisted physics-based puzzles by rotating the cells around our heroes with your finger.
   + [Frozen Gun Games](http://freeze2.com/frozengun/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/app/freeze!/id518123684?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.frozengun.freeze)   
+  
+- **Hexium** - Drag and drop groups of hexes onto the game board. Connect edges with lines of 3 or more hexes in a row and they disappear while you score points.
+  + [Prairie West Software](https://www.prairiewest.net/)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/hexium/id1419259691?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=net.prairiewest.hexium)   
   
 - **I Love Hue** - Gentle journey into colour and perception. Arrange mosaics of coloured tiles into perfectly ordered spectrums.
   + [Zut Games Ltd](http://zutgames.com/)
@@ -284,9 +290,13 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - **Draw Rider Plus** - You need to get to the end of the road, not crashing. The game is made in bw style, and has realistic physics.
   + [17Studio](http://17studio.tumblr.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/draw-rider-plus/id629059031?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.Studio17.drawriderplus)   
+  
+- **Rocky Race** - Drive through crazy roads, hit rocky obstacles and shoot your friends.
+  + [ET Bros](https://twitter.com/etbrosgames)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/rocky-race-fun-online-game/id1380523278) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.etbros.rockyrace)   
 
-### RPG
 
+### RPG 
 
 - **Dungeon Dealer** - You must stack the deck in the favour of our mighty hero, for he knows not how to choose what to do next.
   + [Ponywolf](http://ponywolf.com/)
@@ -296,16 +306,39 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [Ponywolf](http://ponywolf.com/)
   +  [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.ponywolf.kotct) [![Steam](steam_icon.svg)](https://store.steampowered.com/app/998850/Knights_of_the_Card_Table/)  
   
+- **Merchant** - Take the role of a shopkeeper who must manage a team of Heroes and Crafters.
+  + [Retora Games](http://www.retoragames.com/)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/merchant-rpg/id1035170074?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=bearface.games.merchant) [![Steam](steam_icon.svg)](https://store.steampowered.com/app/346750/Merchant/)  
+  
 - **Only One** - An epic arena style sword fighting game where you push and kill waves of enemies off a pillar in the sky with your magical sword.
   + [Ernest Szoka](http://www.ernestszoka.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/only-one/id681646403?ls=1&mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.rebelbinary.onlyone&hl=en)   
+  
+- **Portals of Sacraland** - Take control over a group of heroes, lead them to victory. You will find some loot - use it to craft better gear.
+  + [Denis Krasakov](https://twitter.com/benzeliden)
+  +  [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.benzeliden.games.portalsofsacraland)   
+  
+- **Royal Booty Quest** - Rogue Like Cards Game. Inspired by Slay the Spire.
+  + [Elite Games Ltd](http://theelitegames.net/)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/royal-booty-quest/id1414474189?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.elitegamesltd.royalquest&hl=en) [![Steam](steam_icon.svg)](https://store.steampowered.com/app/948350/Royal_Booty_Quest/) [![Itch](itch_icon.svg)](https://badim.itch.io/royalbootyquest) 
   
 - **Royal Offense** - Royal Offense contains elements of role play: while fulfilling your orders, the heroes improve their skills and talents, as well as earn gold to be spent on new equipment, weapons, and magical elixirs. 
   + [Elite Games Ltd](http://theelitegames.net/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/app/royal-offense/id659970011?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.elitegamesltd.royaloffense)   
 
 
-### Strategy
+### Sports  
+
+- **Retro Football Boss** - Historical football management simulation featuring the English professional leagues from 1888 to 1998
+  + [1888 Games](https://twitter.com/1888gamesltd)
+  +   [![Steam](steam_icon.svg)](https://store.steampowered.com/app/511790/Retro_Football_Boss)  
+  
+- **Underworld Football Manager** - Build your football empire by bribing, attacking, and vandalizing your opponents.
+  + [Stanga Games](https://www.underworldfootball.com/)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/app/apple-store/id954153702?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.jokkogames.footballunderworld.mobile&referrer=utm_source%3Dwebsite)   [![Itch](itch_icon.svg)](https://www.amazon.co.uk/Stanga-Games-Football-Underworld-Manager/dp/B00XG7VRKQ)
+
+
+### Strategy  
 
 - **ConflictCraft** - Capture as many bases as you can. Defend and attack at the same time.
   + [Elite Games Ltd](http://theelitegames.net/)
