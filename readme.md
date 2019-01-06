@@ -35,7 +35,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - **Gunman Taco Truck** - An action-packed drive across the post-apocalypse United States, where there are no taco trucks and your family’s taco business can thrive. 
   + [Romero Games Ltd.](https://www.romerogames.ie/)
-  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/ru/app/gunman-taco-truck/id961382781) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.romerogames.gmtt)   
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/ru/app/gunman-taco-truck/id961382781) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.romerogames.gmtt) [![Steam](steam_icon.svg)](https://store.steampowered.com/app/586310/Gunman_Taco_Truck/)  
   
 - **SKIPCHASER** - A story-driven sci-fi fantasy shooter with procedural missions, deep weapon customization and action/adventure elements. 
   + [Ponywolf](http://ponywolf.com/)
