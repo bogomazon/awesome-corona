@@ -11,6 +11,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Arcade](#arcade)
 - [Casual](#casual)
 - [Music](#music)
+- [Platformer](#platformer)
 - [Puzzle](#puzzles)
 - [Racing](#racing)
 - [RPG](#rpg)
@@ -19,8 +20,9 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Trivia](#trivia)
 
 ## Apps
+- [Education](#education)
 - [Finance](#finance)
-- [Music](#music)
+- [Kids](#kids)
 - [News](#news)
 - [Utility](#utility)
 - [Weather](#weather)
@@ -31,7 +33,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Other Lists](#other-lists)
 
 
-### Action  
+### Action
 
 - **Gunman Taco Truck** - An action-packed drive across the post-apocalypse United States, where there are no taco trucks and your family’s taco business can thrive. 
   + [Romero Games Ltd.](https://www.romerogames.ie/)
@@ -46,7 +48,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/id1106182796) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.epacegames.zombiemobile&hl=en)   
 
 
-### Adventure 
+### Adventure
 
 - **A Short Tale** - After wishing to be small again, to feel closer to his younger brother, Jason finds himself in a strange new world filled with larger than life furniture, troublesome obstacles, and less-than-helpful occupants.
   + [Glitch Games](https://glitch.games/)
@@ -81,7 +83,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/regained-castle/id1053483375?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.sungiftgames.regainedcastle) [![Steam](steam_icon.svg)](https://store.steampowered.com/app/777160/Forgotten_Places_Regained_Castle/)  
   
 - **Return to Grisly Manor** - Greedy developers BUYCO want to build their next MegaMart superstore on Grandpa’s newly renovated Grisly Manor! Stop them!
-  + by Fire Maple Games
+  + [Fire Maple Games](http://www.firemaplegames.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/return-to-grisly-manor/id975985952?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.firemaplegames.returntogrislymanor)   
   
 - **The Forgotten Room** - Play as paranormal investigator John “Buster of Ghosts” Murr as he explores yet another mysteriously creepy house.
@@ -93,15 +95,19 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   +   [![Steam](steam_icon.svg)](https://store.steampowered.com/app/487180/The_Lords_of_the_Earth_Flame)  
   
 - **The Lost City** - Legend has it the civilization that built this place could somehow control the seasons. Inspired by classic point and click adventure games. 
-  + by Fire Maple Games
+  + [Fire Maple Games](http://www.firemaplegames.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/the-lost-city/id414835676?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.firemaplegames.thelostcity)   
+  
+- **Thickety Creek** - What secret lies hidden behind the locked gates of Thickety Creek?
+  + [Fire Maple Games](http://www.firemaplegames.com/)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/thickety-creek/id1320364842?ls=1&mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.firemaplegames.Thickety_Creek)   
   
 - **Veritas** - Having volunteered to take part in a study conducted by Veritas Industries, you now find yourself waking up in a small room with no memory of what happened the day before.
   + [Glitch Games](https://glitch.games/)
   +   [![Steam](steam_icon.svg)](https://store.steampowered.com/app/900290/Veritas/)  
 
 
-### Arcade  
+### Arcade
 
 - **Beelly** - Steer Beelly the bee through the green meadow without hitting anything.
   + [AntiSocialGames](https://antisocial.games/)
@@ -118,6 +124,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - **Climberia: Pirates** - Control the pirate's hands to climb up, collect coins and run away from the greedy octopus.
   + [Kvaba Interactive](https://www.kvaba.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/climberia-pirates/id1054929556?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.kvaba.climberia)   
+  
+- **El Rapidor: The Clever Biker** - You are stuck in a desert in Mexico and you have to run from police cars using your stylish bicycle.
+  + by Sour Cream Bits
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/el-rapidor-the-clever-biker/id1198491715) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.scb.elrapidor&hl=en)   
   
 - **Fun Run 3** - Run with all your might, race and crush your friends or random people in real-time.
   + [Dirtybit](https://www.dirtybit.com/)
@@ -149,10 +159,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   
 - **Tower Crush** - Build a tower, up to 6 floors, load them with weapons, upgrade, evolve and defeat your opponents in fantastic battles. 
   + [Impossible Apps](https://www.impossibleapps.com/)
-  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/tower-crush/id695198278) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.impossibleapps.towercrush)   
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/tower-crush/id695198278) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.impossibleapps.towercrush)   [![Itch](itch_icon.svg)](https://www.amazon.com/Impossible-Apps-Tower-Crush/dp/B01FQ8KXX4)
 
 
-### Casual  
+### Casual
 
 - **Egg Baby** - Ultra cute, fun, and addictive pet game! Eggs are like real pets that need lots of attention and care.
   + [Nix Hydra Games](http://www.nixhydra.com)
@@ -172,7 +182,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   
 - **Merge City** - Be the mayor in this new free offline idle town tycoon merge game. Tap boxes to add new buildings to your merge town.
   + [Sphere Game Studios Ltd](https://www.spheregamestudios.com/)
-  +  [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.spheregamestudios.mergecity)   
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/merge-city/id1444695443) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.spheregamestudios.mergecity)   
   
 - **Rainbow Slide** - Slide your way up the rainbow, jumping from level to level through the colored gates.
   + [Simon Natt](http://nattygames.net/)
@@ -191,18 +201,29 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/streetfood-tycoon/id498812738?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/dev?id=8960559483634068012)   
 
 
-### Music 
+### Music
 
 - **OverRapid** - Mobile rhythm action game similar in style to famous titles like Rock Band and Guitar Hero. 
   + [Team Arcstar](https://twitter.com/Team_ArcStar)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/overrapid/id994425296?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.arcstar.overrapid)   
 
 
-### Puzzle  
+### Platformer
+
+- **The Sidekicks** - Platformer with a twist. You play with three different characters - Noobert, Zeronita and Bellie G, all of whom have their unique superpowers
+  + [Aatos Media](https://aatosmedia.fi/)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/the-sidekicks/id1116899597?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=fi.aatosmedia.thesidekicks)   
+
+
+### Puzzle
 
 - **1-800-Monsters** - Dial up 1-800-Monsters and begin your quest as the hapless Jimmy, ex-pyrotechnician, now birthday party entertainer extraordinaire.
   + [Ponywolf](http://ponywolf.com/)
   +    [![Itch](itch_icon.svg)](https://ponywolf.itch.io/1-800-monsters) 
+  
+- **10000! (Big Maker)** - Tap, slide and make your big number.
+  + by Day-Off Games
+  +  [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.gmail.chodongwon82.big_maker)   
   
 - **Alpha Omega** - Can you solve each crossword puzzle, with only the first and last letters as your guide?
   + [BorderLeap](https://borderleap.com/)
@@ -256,6 +277,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [Zut Games Ltd](http://zutgames.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/ru/app/i-love-hue/id1081075274) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.zutgames.ilovehue)   
   
+- **Marble Monster** - Find the right path and roll the marble into the monster's cave in 60 different challenges.
+  + [Outline Development](https://www.outline-development.de/)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/mu/app/marble-monster/id862982300) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=de.development.outline.marblemonster&hl=en)   
+  
 - **Minimize** - Swipe to change gravity and minimize each puzzle to where no blocks remain.
   + [BorderLeap](https://borderleap.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/minimize/id1078677054?mt=8)    
@@ -285,7 +310,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/zmath/id1441670007?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=games.antisocial.smath)   
 
 
-### Racing  
+### Racing
 
 - **Draw Rider Plus** - You need to get to the end of the road, not crashing. The game is made in bw style, and has realistic physics.
   + [17Studio](http://17studio.tumblr.com/)
@@ -296,11 +321,19 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/rocky-race-fun-online-game/id1380523278) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.etbros.rockyrace)   
 
 
-### RPG 
+### RPG
 
+- **Curse of Abandum** - Select your hero and begin dangerous journey to ancient isle.
+  + by Ro Games
+  +  [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=ro.CoA)   
+  
 - **Dungeon Dealer** - You must stack the deck in the favour of our mighty hero, for he knows not how to choose what to do next.
   + [Ponywolf](http://ponywolf.com/)
   +    [![Itch](itch_icon.svg)](https://ponywolf.itch.io/dungeondealer) 
+  
+- **Grue the monster – roguelike underworld RPG** - Turn-based tactical RPG roguelike with elements of stealth and strategic puzzles. 
+  + [Denis Anohin](https://coolai.itch.io/)
+  +  [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=rpg.roguelike.grue.monster)  [![Itch](itch_icon.svg)](https://coolai.itch.io/grue-roguelike) 
   
 - **Knights of the Card Table** - Master over 100 dungeons and 3 worlds in this dungeon crawler card game that puts you in control of the dungeon cards.
   + [Ponywolf](http://ponywolf.com/)
@@ -327,7 +360,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/app/royal-offense/id659970011?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.elitegamesltd.royaloffense)   
 
 
-### Sports  
+### Sports
 
 - **Retro Football Boss** - Historical football management simulation featuring the English professional leagues from 1888 to 1998
   + [1888 Games](https://twitter.com/1888gamesltd)
@@ -338,7 +371,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/app/apple-store/id954153702?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.jokkogames.footballunderworld.mobile&referrer=utm_source%3Dwebsite)   [![Itch](itch_icon.svg)](https://www.amazon.co.uk/Stanga-Games-Football-Underworld-Manager/dp/B00XG7VRKQ)
 
 
-### Strategy  
+### Strategy
 
 - **ConflictCraft** - Capture as many bases as you can. Defend and attack at the same time.
   + [Elite Games Ltd](http://theelitegames.net/)
@@ -367,17 +400,32 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - **Space City** - Space City is a futuristic space-themed city building game.
   + [Sphere Game Studios Ltd](https://www.spheregamestudios.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/space-city-building-game/id1220255949) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.spheregamestudios.spacecity)   
+  
+- **Stronghold** - An epic medieval tower defense.
+  + [Artha France](http://arthafrance.com/)
+  +  [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.Artha.Kings)   [![Itch](itch_icon.svg)](https://www.amazon.fr/artha-france-Stronghold/dp/B01E4HM6D8/)
 
 
-### Trivia  
+### Trivia
 
 - **QuizTix** - Power up your knowledge with QuizTix!
   + [QuizTix](http://quiztix.co/)
-  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/developer/quiztix/id815117946) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/dev?id=5484313615088339938)   
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/developer/quiztix/id815117946) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/dev?id=5484313615088339938)
 
 
 
 ## Apps
+
+
+### Education
+
+- **Music4Kids** - With Music4Kids (ages 4 and up), write and play music at the same time.
+  + [One Tree Hill Studio](http://www.onetreehillstudio.com/)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/music4kids-learn-create-compose/id731852306)
+
+- **The Ukulele App** - The smartphone app for the smartphone of instruments!
+  + [Jon Howard](https://theukuleleapp.com/)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/gb/app/the-ukulele-app/id1080635728?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.gmail.techdojo.The_Ukulele_App) 
 
 
 ### Finance
@@ -387,13 +435,15 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/gb/app/gohenry-pocket-money-manager/id683249974?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.pktmny.mobile) 
 
 
-### Music
+### Kids 
 
-- **The Ukulele App** - The smartphone app for the smartphone of instruments!
-  + [Jon Howard](https://theukuleleapp.com/)
-  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/gb/app/the-ukulele-app/id1080635728?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.gmail.techdojo.The_Ukulele_App) 
+- **Cinderella fairytale game** - Interactive game-fairytale based on the Cinderella tale.
+  + by ShvagerFM
+  +  [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.shvagerfm.cinderella&rdid=com.shvagerfm.cinderella) 
 
-### News
+
+
+### News 
 
 - **Idaho Ed News** - Idaho Education News is a comprehensive collection of online sources that provides information about public education in Idaho.
   + [Ponywolf](http://ponywolf.com/)
@@ -412,7 +462,6 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - **Foresee** - Foresee intelligently predicts the ideal times for your favorite activities so the weather doesn't catch you off guard.
   + [BorderLeap](https://borderleap.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/foresee-your-personal-activity/id934906611?ls=1&mt=8)  
-
 
 
 ## Resources
