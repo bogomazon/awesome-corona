@@ -52,7 +52,6 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/id1106182796) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.epacegames.zombiemobile&hl=en)   
 
 
-
 ### Adventure
 
 - **A Short Tale** - After wishing to be small again, to feel closer to his younger brother, Jason finds himself in a strange new world filled with larger than life furniture, troublesome obstacles, and less-than-helpful occupants.
@@ -170,6 +169,11 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/gb/app/hopiko/id969961138?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.laserdog.hopiko&hl=en_GB) [![Steam](steam_icon.svg)](https://store.steampowered.com/app/437390/HoPiKo/)  
 
 
+- **Kitten Up!** - Jump to the top to save your kitten.
+  + [David Ciaudo](http://honeyponey.fr/)
+  + [![iOS](appstore_icon.svg)](https://apps.apple.com/app/apple-store/id1409477006) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.honeyponey.catjump)   
+
+
 - **PKTBALL** - A hyper-charged arcade smash sport designed to test your skills and reflexes to the max.
   + [Laser Dog](http://www.laserdog.co.uk/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/app/id816283225) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.laserdog.pktball)   
@@ -264,6 +268,21 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ### Educational
 
+- **A Day with Masha and the Bear** - More than 20 games for children.
+  + [Tap Tap Tales](http://www.taptaptales.com/)
+  + [![iOS](appstore_icon.svg)](https://apps.apple.com/us/app/un-d%C3%ADa-con-masha-y-el-oso/id1403477240) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.taptaptales.mashasdaygamesforkids)   
+
+
+- **Masha and the Bear. Educational Games** - Discover the fantastic world of Masha and the bear through these 30 educational games.
+  + [Edujoy](http://edujoy.es/)
+  + [![iOS](appstore_icon.svg)](https://apps.apple.com/app/masha-y-el-oso-juegos/id1270785884) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.edujoy.masha.games)   
+
+
+- **Monster Trucks Game for Kids 2** - Racing game for young kids and toddlers.
+  + [Raz Games](http://razgames.com/)
+  + [![iOS](appstore_icon.svg)](https://apps.apple.com/us/app/monster-trucks-kids-racing-game/id1112826306) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.razmobi.monstertrucks2)   
+
+
 - **Tim the Fox - Mosaic** - Look at the picture assembled from different colored pieces and try to duplicate this picture by placing the mosaic pieces in the correct boxes on the playing field.
   + [Internet-Expert LLC](https://internet-expert.ru/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/app/id1198108351?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.timthefox.mosaic)   
@@ -304,7 +323,9 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - **OverRapid** - Mobile rhythm action game similar in style to famous titles like Rock Band and Guitar Hero. 
   + [Team Arcstar](https://twitter.com/Team_ArcStar)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/overrapid/id994425296?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.arcstar.overrapid)   
-platformer
+
+
+### Platformer
 
 - **Bloo Kid 2** - Classic 2D retro-style platformer.
   + [Winterworks, GmbH](https://www.winterworks.de/)
@@ -388,6 +409,21 @@ platformer
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/app/freeze!/id518123684?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.frozengun.freeze)   
 
 
+- **GlowGrid 2** - A new take on the classic tile-matching game, with neon pixel art and a synth soundtrack.
+  + [Zut Games Ltd](http://zutgames.com/)
+  + [![iOS](appstore_icon.svg)](https://apps.apple.com/us/app/glowgrid-2/id1317055579?ls=1) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.zutgames.glowgrid2)   
+
+
+- **GlowGrid** - Glow Grid is a hypnotic, retro puzzle game
+  + [Zut Games Ltd](http://zutgames.com/)
+  + [![iOS](appstore_icon.svg)](https://apps.apple.com/us/app/glowgrid/id847421230) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.zutgames.glowgrid)   
+
+
+- **GrabbyWord** - Fresh twist on the typical word game.
+  + [Playzot](https://www.playzot.com/home)
+  + [![iOS](appstore_icon.svg)](https://apps.apple.com/app/apple-store/id862586824) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.playzot.grabbyWord)   
+
+
 - **Hexium** - Drag and drop groups of hexes onto the game board. Connect edges with lines of 3 or more hexes in a row and they disappear while you score points.
   + [Prairie West Software](https://www.prairiewest.net/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/hexium/id1419259691?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=net.prairiewest.hexium)   
@@ -396,6 +432,16 @@ platformer
 - **I Love Hue** - Gentle journey into colour and perception. Arrange mosaics of coloured tiles into perfectly ordered spectrums.
   + [Zut Games Ltd](http://zutgames.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/ru/app/i-love-hue/id1081075274) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.zutgames.ilovehue)   
+
+
+- **Lights Out** - 22 levels from the original Lights Out handheld logic puzzle / brain game, followed by randomly generated grids for an infinite number of challenging puzzles.
+  + [QWeb Ltd](https://www.qweb.co.uk/)
+  +  [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=uk.co.qweb.lightsout&hl=en_US)   
+
+
+- **Manic Monsters!** - Get the red monsters onto red tiles, yellow monsters onto yellow tiles, etc.
+  + [Sphere Game Studios Ltd](https://www.spheregamestudios.com/)
+  + [![iOS](appstore_icon.svg)](https://apps.apple.com/ca/app/manic-monsters/id1455344429) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.spheregamestudios.puzzle.manicmonsters)   
 
 
 - **Marble Monster** - Find the right path and roll the marble into the monster's cave in 60 different challenges.
@@ -470,6 +516,11 @@ platformer
 - **Dungeon Dealer** - You must stack the deck in the favour of our mighty hero, for he knows not how to choose what to do next.
   + [Ponywolf](http://ponywolf.com/)
   +    [![Itch](itch_icon.svg)](https://ponywolf.itch.io/dungeondealer) 
+
+
+- **Game of Sultans** - Empire simulation RPG game in which you get to experience the life of a Sultan
+  + [Mechanist Games](http://mechanist.co)
+  + [![iOS](appstore_icon.svg)](https://apps.apple.com/us/app/game-of-sultans/id1372638631) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.dc.hwsj)   
 
 
 - **Grue the monster – roguelike underworld RPG** - Turn-based tactical RPG roguelike with elements of stealth and strategic puzzles. 
@@ -580,9 +631,14 @@ platformer
 
 ### Trivia
 
+- **Quiz Of Kings** - Online social game in which you can make new friends and compete with them.
+  + [Elyas Nadali](https://quizofkings.com/)
+  + [![iOS](appstore_icon.svg)](https://apps.apple.com/us/app/quiz-of-kings-online-trivia/id1473782183) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=co.palang.QuizOfKingss)   
+
+
 - **QuizTix** - Power up your knowledge with QuizTix!
   + [QuizTix](http://quiztix.co/)
-  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/developer/quiztix/id815117946) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/dev?id=5484313615088339938)
+  + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/developer/quiztix/id815117946) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/dev?id=5484313615088339938)   
 
 ## Apps
 
