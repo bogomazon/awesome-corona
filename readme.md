@@ -537,6 +537,9 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
   + [Retora Games](http://www.retoragames.com/)
   + [![iOS](appstore_icon.svg)](https://itunes.apple.com/us/app/merchant-rpg/id1035170074?mt=8) [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=bearface.games.merchant) [![Steam](steam_icon.svg)](https://store.steampowered.com/app/346750/Merchant/)  
 
+- **Space Merchant** - Send your ships out on quests, deal with random adventure events, research the tech tree, make new weapons, armor, and service items for your ships.
+  + [Retora Games](http://www.retoragames.com/)
+  + [![Android](google_play_icon.svg)](https://play.google.com/store/apps/details?id=com.retoragames.spacemerchant) 
 
 - **Only One** - An epic arena style sword fighting game where you push and kill waves of enemies off a pillar in the sky with your magical sword.
   + [Ernest Szoka](http://www.ernestszoka.com/)
